@@ -21,7 +21,7 @@ npm run dev
 -   Website: dewansh.tech
 -   Twitter: [@codewansh](https://twitter.com/codewansh)
 -   Github: [@dewanshchaudhari](https://github.com/dewanshchaudhari)
--   LinkedIn: [@dewansh-chaudhari-252252195](https://linkedin.com/in/dewansh-chaudhari-252252195)
+-   LinkedIn: [@dewanshchaudhari](https://linkedin.com/in/dewansh-chaudhari-252252195)
 
 ## Show your support
 
