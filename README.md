@@ -7,6 +7,8 @@
 
 > An end to end encrypted chat app using websocktes and lib-signal protocol.
 
+![Working](https://imgur.com/a/DqE2qYK)
+
 ## Install
 
 ```sh
